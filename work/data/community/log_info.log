@@ -1,0 +1,7 @@
+2020-06-15 16:30:02,171 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:55] Starting LoggerTests on yangwenzhedeMacBook-Pro.local with PID 4548 (started by yangwenzhe in /Users/yangwenzhe/IdeaProjects/community)
+2020-06-15 16:30:02,173 INFO [main] c.n.c.LoggerTests [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2020-06-15 16:30:03,972 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-15 16:30:04,060 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2020-06-15 16:30:04,322 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:61] Started LoggerTests in 2.761 seconds (JVM running for 3.953)
+2020-06-15 16:30:04,688 INFO [main] c.n.c.LoggerTests [LoggerTests.java:20] debug info
+2020-06-15 16:30:04,714 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
